@@ -1,0 +1,19 @@
+- name: 'シナノゴールド'
+  seed: 'ゴールデンデリシャス'
+  pollen: '千秋'
+
+- name: 'フジ'
+  seed: '国光'
+  pollen: 'デリシャス'
+
+- name: 'シナノゴールド'
+  seed: 'ゴールデンデリシャス'
+  pollen: '千秋'
+
+- name: '秋映'
+  seed: '千秋'
+  pollen: 'ツガル'
+
+- name: '王林'
+  seed: 'ゴールデンデリシャス'
+  pollen: '印度'
