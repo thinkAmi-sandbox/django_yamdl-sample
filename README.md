@@ -10,3 +10,4 @@
 
 ## Related Blog (Written in Japanese)
 
+- [Djangoとyamdlにより、fixtureを使わずにYAMLとモデルを紐付ける - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/12/22/083107)
